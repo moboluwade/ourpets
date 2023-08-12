@@ -1,0 +1,26 @@
+.header{
+    background-color: #00B4FF;
+    color: white;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+    align-items: baseline;
+    max-width: 100%;
+    padding: 0.5rem 6rem 0.5rem 6rem;
+}
+.logo{
+    margin-right: auto;
+    font-size: 2rem;
+}
+.logo>span{
+    font-weight: 400;
+}
+.navigation{
+    text-transform: uppercase;
+}
+.navigation>a{
+    color: white;
+    text-decoration: none;
+    padding: 0 0.5rem 0 0.5rem;
+    font-size: small;
+}
