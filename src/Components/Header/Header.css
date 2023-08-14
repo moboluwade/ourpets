@@ -4,9 +4,9 @@
     display: flex;
     flex-flow: row nowrap;
     justify-content: flex-end;
-    align-items: baseline;
+    align-items: center;
     max-width: 100%;
-    padding: 0.5rem 6rem 0.5rem 6rem;
+    padding: 1rem 6rem 0.5rem 6rem;
 }
 .logo{
     margin-right: auto;
